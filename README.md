@@ -82,23 +82,11 @@ Random Forest and SHAP-based identification and interpretation of microbial biom
 Reproducible single-cell RNA-seq workflow using the 10x Genomics PBMC dataset, Seurat, and SingleR.  
 → [End-to-End Single-Cell RNA-seq Analysis of Human PBMCs](https://github.com/mahesh1368569/End-to-End-Single-Cell-RNA-seq-Analysis-of-Human-PBMCs)
 
-### Selected Peer-Reviewed Publications
-
-1. **Chinthalapudi, D.P.M.**, Narayana, N.K., Nekkalapudi, L., Sinha, N., & Shanmugam, S.G. (2026). **Soil microbial diversity, stability, and function are enhanced by cover cropping: A machine learning-based pooled analysis of Mississippi agroecosystems.** *Science of the Total Environment*, 1014, 181365. [DOI](https://doi.org/10.1016/j.scitotenv.2026.181365)
-
-2. **Chinthalapudi, D.P.M.**, Narayana, N.K., Poudel, S., Brooks, J.P., Shanmugam, S.G., & Bheemanahalli, R. (2025). **Drought-induced shifts in cowpea rhizoplane bacterial communities across different vegetative and reproductive stages.** *Plant Stress*, 17, 100915. [DOI](https://doi.org/10.1016/j.stress.2025.100915)
-
-3. **Chinthalapudi, D.P.M.**, Kingery, W., & Shanmugam, S.G. (2025). **A Review of Plant-Mediated and Fertilization-Induced Shifts in Ammonia Oxidizers: Implications for Nitrogen Cycling in Agroecosystems.** *Land*, 14(6), 1182. [DOI](https://doi.org/10.3390/land14061182)
-
-4. **Chinthalapudi, D.P.M.**, Pokhrel, S., Kingery, W.L., Shankle, M.W., & Shanmugam, S.G. (2023). **Exploring the Synergistic Impacts of Cover Crops and Fertilization on Soil Microbial Metabolic Diversity in Dryland Soybean Production Systems Using Biolog EcoPlates.** *Applied Biosciences*, 2(3), 328–346. [DOI](https://doi.org/10.3390/applbiosci2030022)
-
-**Complete publication profiles:**  
-📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=A8LyNbYAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Durga-Chinthalapudi) · [ORCID](https://orcid.org/0000-0002-4377-1097)
 
 ### Contact
 * **Email:** chinthalapudi@biology.msstate.edu
 * **GitHub:** [mahesh1368569](https://github.com/mahesh1368569)
-* **Google Scholar:** [A8LyNbYAAAAJ](https://scholar.google.com/citations?hl=en&user=A8LyNbYAAAAJ)
+* **Google Scholar:** [Durga Purushotham Mahesh Chinthalapudi]([https://scholar.google.com/citations?hl=en&user=A8LyNbYAAAAJ](https://scholar.google.com/citations?user=A8LyNbYAAAAJ&hl=en&authuser=1))
 * **ResearchGate:** [Durga Chinthalapudi](https://www.researchgate.net/profile/Durga-Chinthalapudi)
 * **ORCID:** [0000-0002-4377-1097](https://orcid.org/0000-0002-4377-1097)
 
