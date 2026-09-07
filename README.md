@@ -25,29 +25,84 @@ My current work focuses on **soil and marine/estuarine microbial ecology**, incl
 
 ### Bioinformatics & Computational Skills
 
-**Programming, Data Science & Reproducible Research**  
-`R` · `Python` · `Bash` · `Linux` · `tidyverse` · `ggplot2` · `Bioconductor` · `R Markdown` · `Jupyter` · `Git` · `GitHub`
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Conda" />
+  <img src="https://img.shields.io/badge/HPC-SLURM-2C3E50?style=flat-square" alt="HPC SLURM" />
+</p>
 
-**Amplicon Sequencing & Microbiome Analysis**  
-`QIIME 2` · `DADA2` · `phyloseq` · `microeco` · `vegan` · `MaAsLin3` · `DESeq2` · `LEfSe` · `PICRUSt2` · `SILVA` · `UNITE` · alpha/beta diversity · PERMANOVA · ordination · differential abundance · community assembly · ecological networks
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Shotgun Metagenomics & Microbial Genomics**  
-`MetaWRAP` · `MEGAHIT` · `MaxBin2` · `Kraken2` · `Bracken` · `GTDB-Tk` · `DIAMOND` · `MMseqs2` · `MEGAN` · `METABOLIC` · `DITING` · `Prodigal` · `HMMER` · `Bowtie2` · `SAMtools` · `CoverM` · `dbCAN` · MAG reconstruction · taxonomic profiling · functional annotation · pathway analysis
+#### 🧬 Microbiome & Amplicon Analysis
+**Tools:** `QIIME 2` · `DADA2` · `phyloseq` · `microeco` · `vegan` · `MaAsLin3` · `DESeq2` · `LEfSe` · `PICRUSt2` · `SILVA` · `UNITE`  
+**Methods:** alpha/beta diversity · PERMANOVA · ordination · differential abundance · community assembly · ecological networks
 
-**RNA-seq & Transcriptomics**  
-`FastQC` · `MultiQC` · `Cutadapt` · `STAR` · `HISAT2` · `Salmon` · `featureCounts` · `tximport` · `DESeq2` · `edgeR` · `limma` · `WGCNA` · `clusterProfiler` · `fgsea` · differential expression · pathway and gene-set enrichment analysis
+</td>
+<td width="50%" valign="top">
 
-**Single-Cell RNA-seq**  
-`Cell Ranger` · `Seurat` · `SingleR` · `celldex` · `Bioconductor` · sparse expression matrices · QC/filtering · normalization · PCA · UMAP · clustering · marker identification · reference-based cell annotation
+#### 🌊 Shotgun Metagenomics & Microbial Genomics
+**Tools:** `MetaWRAP` · `MEGAHIT` · `MaxBin2` · `Kraken2` · `Bracken` · `GTDB-Tk` · `DIAMOND` · `MMseqs2` · `MEGAN` · `METABOLIC` · `DITING` · `Prodigal` · `HMMER` · `Bowtie2` · `SAMtools` · `CoverM` · `dbCAN`  
+**Methods:** assembly · binning · MAG reconstruction · taxonomic profiling · functional annotation · pathway analysis
 
-**Metabolomics & Multi-Omics**  
-`xcms` · `MetaboAnalystR` · `Spectra` · `MSnbase` · `mixOmics` · `ropls` · FT-ICR-MS data interpretation · dissolved organic matter characterization · molecular-formula analysis · NOSC · multivariate integration · microbiome–metabolome associations
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Statistics, Ecology & Machine Learning**  
-`vegan` · `lme4` · `nlme` · `emmeans` · `randomForest` / `ranger` · `caret` / `tidymodels` · Random Forest · SHAP · PCA · PCoA · NMDS · RDA · CCA · Mantel tests · mixed-effects models · multivariate statistics · network analysis · feature selection · interpretable machine learning
+#### 🧪 RNA-seq & Transcriptomics
+**Tools:** `FastQC` · `MultiQC` · `Cutadapt` · `STAR` · `HISAT2` · `Salmon` · `featureCounts` · `tximport` · `DESeq2` · `edgeR` · `limma` · `WGCNA` · `clusterProfiler` · `fgsea`  
+**Methods:** read QC · alignment/pseudoalignment · differential expression · co-expression · pathway and gene-set enrichment
 
-**High-Performance Computing & Workflow Management**  
-HPC · `SLURM` · job arrays · Linux shell scripting · `Conda` / `Mamba` · environment management · parallel computing · large sequencing datasets · reproducible directory structures · Git-based version control
+</td>
+<td width="50%" valign="top">
+
+#### 🧫 Single-Cell RNA-seq
+**Tools:** `Cell Ranger` · `Seurat` · `SingleR` · `celldex` · `Bioconductor`  
+**Methods:** sparse matrix processing · QC/filtering · normalization · PCA · UMAP · clustering · marker discovery · reference-based annotation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚗️ Metabolomics & Multi-Omics
+**Tools:** `xcms` · `MetaboAnalystR` · `Spectra` · `MSnbase` · `mixOmics` · `ropls`  
+**Methods:** FT-ICR-MS interpretation · dissolved organic matter characterization · molecular formula analysis · NOSC · multivariate integration · microbiome–metabolome associations
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Statistics, Ecology & Machine Learning
+**Tools:** `vegan` · `lme4` · `nlme` · `emmeans` · `randomForest` · `ranger` · `caret` · `tidymodels`  
+**Methods:** PCA · PCoA · NMDS · RDA · CCA · Mantel tests · mixed-effects models · Random Forest · SHAP · network analysis · interpretable ML
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💻 Programming & Reproducible Research
+**Languages:** `R` · `Python` · `Bash` · `Linux shell`  
+**Ecosystem:** `tidyverse` · `ggplot2` · `Bioconductor` · `R Markdown` · `Jupyter` · `Git` · `GitHub`  
+**Focus:** reproducible analysis · data wrangling · visualization · workflow documentation
+
+</td>
+<td width="50%" valign="top">
+
+#### 🖥️ HPC & Workflow Management
+**Tools:** `SLURM` · `Conda` · `Mamba` · Linux shell scripting · Git-based version control  
+**Experience:** job arrays · parallel computing · environment management · large sequencing datasets · reproducible directory structures · scalable bioinformatics workflows
+
+</td>
+</tr>
+</table>
 
 ### Research Interests
 * Microbial ecology and community assembly
@@ -84,7 +139,7 @@ Reproducible single-cell RNA-seq workflow using the 10x Genomics PBMC dataset, S
 ### Contact
 * **Email:** chinthalapudi@biology.msstate.edu
 * **GitHub:** [mahesh1368569](https://github.com/mahesh1368569)
-* **Google Scholar:** [Durga Purushotham Mahesh Chinthalapudi]([https://scholar.google.com/citations?hl=en&user=A8LyNbYAAAAJ](https://scholar.google.com/citations?user=A8LyNbYAAAAJ&hl=en&authuser=1))
+* **Google Scholar:** [Durga Purushotham Mahesh Chinthalapudi](https://scholar.google.com/citations?user=A8LyNbYAAAAJ&hl=en)
 * **ResearchGate:** [Durga Chinthalapudi](https://www.researchgate.net/profile/Durga-Chinthalapudi)
 * **ORCID:** [0000-0002-4377-1097](https://orcid.org/0000-0002-4377-1097)
 
