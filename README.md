@@ -2,7 +2,7 @@
 
 # Durga Purushotham Mahesh Chinthalapudi, Ph.D.
 
-### Microbiome Scientist | Bioinformatician | Computational Biologist
+### Microbiome Scientist | Bioinformatician
 
 ### About Me
 I am a **Postdoctoral Researcher at Mississippi State University** working at the intersection of **microbial ecology, bioinformatics, biogeochemistry, and multi-omics**. My research combines high-throughput sequencing, environmental measurements, ecological statistics, and computational workflows to understand how microbial communities respond to environmental gradients and management practices and how those responses influence ecosystem function.
