@@ -12,11 +12,9 @@ My current work focuses on **soil and marine/estuarine microbial ecology**, incl
 ### Current Role & Affiliations
 * **Postdoctoral Researcher** — *Department of Biological Sciences, Mississippi State University* | **Wisnoski Lab** (2025–Present)
   * Mississippi coastal and estuarine microbiomes, metagenomics, microbial ecology, environmental gradients, and multi-omics integration.
-* **Previous doctoral research affiliation** — *Institute for Genomics, Biocomputing and Biotechnology (IGBB), Mississippi State University* (2022–2025)
-  * Soil microbiome, cover crops, microbial C and N cycling, functional ecology, bioinformatics, and machine learning.
-* **Graduate Researcher** — *Department of Plant and Soil Sciences, Mississippi State University* (2022–2025)
-* **Research computing affiliation** — *High Performance Computing Collaboratory (HPC²), Mississippi State University*
-  * HPC-based microbiome and bioinformatics workflows using Linux, SLURM, QIIME 2, R, and large-scale sequencing pipelines.
+* **Graduate Research Assistant** — *Institute for Genomics, Biocomputing and Biotechnology (IGBB), Mississippi State University* (2022–2025)
+* — *Department of Plant and Soil Sciences, Mississippi State University* (2022–2025)
+* — *High Performance Computing Collaboratory (HPC²), Mississippi State University*
 
 ### Education
 * **Ph.D. in Plant & Soil Sciences (Agronomy)** — *Mississippi State University* (2025)
