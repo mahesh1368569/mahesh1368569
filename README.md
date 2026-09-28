@@ -74,7 +74,7 @@ My current work focuses on **soil and marine/estuarine microbial ecology**, incl
 
 #### ⚗️ Metabolomics & Multi-Omics
 **Tools:** `xcms` · `MetaboAnalystR` · `Spectra` · `MSnbase` · `mixOmics` · `ropls`  
-**Methods:** FT-ICR-MS interpretation · dissolved organic matter characterization · molecular formula analysis · NOSC · multivariate integration · microbiome–metabolome associations
+**Methods:** LC_MS interpretation · dissolved organic matter characterization · molecular formula analysis · NOSC · multivariate integration · microbiome–metabolome associations
 
 </td>
 <td width="50%" valign="top">
